@@ -12,14 +12,16 @@
 
 #### Why Kaggle Competitions?
 
-Many deep learning competitions are held on Kaggle, offering valuable opportunities to showcase our skills and connect with the community.
-Kaggle serves as a vibrant community where we can learn and grow.
+* Many deep learning competitions are held on Kaggle, offering valuable opportunities to showcase our skills and connect with the community.
+  
+* Kaggle serves as a vibrant community where we can learn and grow.
 
 * * *
 
 ### Face Detection
 
-We explore the practical applications of computer vision techniques, particularly face detection. It allows us to delve into the exciting field of computer vision.
+* We explore the practical applications of computer vision techniques, particularly face detection.
+* It allows us to delve into the exciting field of computer vision.
 
 * * *
 
