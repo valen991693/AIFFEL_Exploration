@@ -24,7 +24,7 @@
   
 * It allows us to delve into the exciting field of computer vision.
 
-#### Benefits of Face Detection
+##### Benefits of Face Detection
 
 * It enables us to experience the thrill of working with computer vision technologies.
   
