@@ -6,7 +6,7 @@
 
 * * *
 
-### Kaggle Competitions
+### 2. Kaggle Competitions
 
 * By leveraging our knowledge from data analysis, we study methods to achieve good performance in Kaggle competitions. It serves as an extension of our data analysis skills.
 
@@ -18,7 +18,7 @@
 
 * * *
 
-### Face Detection
+### 3. Face Detection
 
 * We explore the practical applications of computer vision techniques, particularly face detection.
   
@@ -32,13 +32,13 @@
 
 * * *
 
-### Semantic Segmentation
+### 4. Semantic Segmentation
 
 * We undertake projects on semantic segmentation, including background image synthesis using DeepLab V3 and leveraging OpenCV and Keras.
 
 * * *
 
-### Sentiment Analysis of Movie Reviews
+### 5. Sentiment Analysis of Movie Reviews
 
 * We tackle sentiment analysis, a fundamental task in natural language processing (NLP) that involves classifying sentiments in text.
 
@@ -46,13 +46,13 @@
 
 * * *
 
-### Text Summarization (Seq2Seq)
+### 6. Text Summarization (Seq2Seq)
 
 * We employ the Seq2Seq model for document summarization, which involves the concepts of encoder-decoder architectures.
 
 * * *
 
-### cGAN (Pix2Pix)
+### 7. cGAN (Pix2Pix)
 
 * We explore generative adversarial networks (GANs) by applying them to a project like coloring Pokémon images.
 
@@ -60,7 +60,7 @@
 
 * * *
 
-### Transformer
+### 8. Transformer
 
 * We delve into the Transformer model, one of the hottest deep learning models in the field. We may explore text generation tasks such as building chatbots from scratch using Transformers.
 
