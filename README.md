@@ -1,6 +1,6 @@
 # AIFFEL_Exploration_Description
 
-### Data Analysis
+### **Data Analysis
 
 We conduct data analysis based on Kaggle datasets to gain a better understanding of machine learning systems and enhance our knowledge of the data.
 
