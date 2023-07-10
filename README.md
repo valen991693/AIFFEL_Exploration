@@ -10,7 +10,7 @@
 
 * By leveraging our knowledge from data analysis, we study methods to achieve good performance in Kaggle competitions. It serves as an extension of our data analysis skills.
 
-#### Why Kaggle Competitions?
+##### Why Kaggle Competitions?
 
 * Many deep learning competitions are held on Kaggle, offering valuable opportunities to showcase our skills and connect with the community.
   
