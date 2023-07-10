@@ -2,22 +2,26 @@
 
 ### Data Analysis
 
-We conduct data analysis based on Kaggle datasets to gain a better understanding of machine learning systems and enhance our knowledge of the data.
+* conducting data analysis based on Kaggle datasets to gain a better understanding of machine learning systems and enhance our knowledge of the data.
 
 * * *
 
 ### Kaggle Competitions
 
-By leveraging our knowledge from data analysis, we study methods to achieve good performance in Kaggle competitions. It serves as an extension of our data analysis skills.
+* By leveraging our knowledge from data analysis, we study methods to achieve good performance in Kaggle competitions. It serves as an extension of our data analysis skills.
 
 #### Why Kaggle Competitions?
 
 Many deep learning competitions are held on Kaggle, offering valuable opportunities to showcase our skills and connect with the community.
 Kaggle serves as a vibrant community where we can learn and grow.
 
+* * *
+
 ### Face Detection
 
 We explore the practical applications of computer vision techniques, particularly face detection. It allows us to delve into the exciting field of computer vision.
+
+* * *
 
 #### Benefits of Face Detection
 
@@ -27,21 +31,31 @@ Semantic Segmentation
 
 We undertake projects on semantic segmentation, including background image synthesis using DeepLab V3 and leveraging OpenCV and Keras.
 
+* * *
+
 ### Sentiment Analysis of Movie Reviews
 
 We tackle sentiment analysis, a fundamental task in natural language processing (NLP) that involves classifying sentiments in text. We utilize embedding techniques like Word2Vec and recurrent neural networks (RNNs).
+
+* * *
 
 ### Text Summarization (Seq2Seq)
 
 We employ the Seq2Seq model for document summarization, which involves the concepts of encoder-decoder architectures.
 
+* * *
+
 ### cGAN (Pix2Pix)
 
 We explore generative adversarial networks (GANs) by applying them to a project like coloring Pokémon images. This project marks our foray into image generation models, where we actively utilize tools like Gradient Tape.
 
+* * *
+
 ### Transformer
 
 We delve into the Transformer model, one of the hottest deep learning models in the field. We may explore text generation tasks such as building chatbots from scratch using Transformers.
+
+* * *
 
 ## Exploration Learning Concept
 
