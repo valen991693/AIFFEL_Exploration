@@ -66,7 +66,7 @@
 
 * * *
 
-## Exploration Learning Concept
+## Exploration Learning Objectives
 
 * The exploration phase aims to perform various tasks and toy projects related to deep learning, helping us discover our interests and develop a passion for deep learning.
 
