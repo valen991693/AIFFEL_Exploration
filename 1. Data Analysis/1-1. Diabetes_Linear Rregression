@@ -1,0 +1,63 @@
+1-1. Data Analysis - Diabetes
+Linear Regression
+
+(1) Loading Data
+
+Import the data from load_diabetes in sklearn.datasets.
+Save the data from diabetes.data into df_X and the target from diabetes.target into df_y.
+
+from sklearn.datasets import load_diabetes
+diabetes = load_diabetes()
+df_x = diabetes.data
+df_y = diabetes.target
+
+print(df_x.shape)
+print(df_y.shape)
+
+(2) Preparing Input Data for the Model
+
+Convert the values in df_X to a numpy array and store it.
+
+(3) Preparing Target Data for the Model
+
+Convert the values in df_y to a numpy array and store it.
+
+(4) Splitting the Data into Train and Test Sets
+
+Split the X and y data into separate train and test sets.
+
+(5) Preparing the Model
+
+Prepare the weight W and bias b according to the number of input features.
+Implement the model function.
+
+### (6) Defining the Loss Function
+
+Define the loss function using the Mean Squared Error (MSE) function.
+
+(7) Implementing the Gradient Function
+
+Implement the gradient function to compute the gradients.
+
+(8) Setting the Learning Rate as a Hyperparameter
+
+Set the learning rate as a hyperparameter.
+If the model is not learning well, experiment with different learning rate values.
+
+(9) Training the Model
+
+Train the model using the defined loss function and gradient function.
+Train the model until the loss value is sufficiently low.
+It is acceptable to exclude some feature columns from the input data X. Experiment with various data configurations.
+
+(10) Evaluating Performance on Test Data
+
+Evaluate the performance of the model on the test data.
+
+(11) Visualizing the Ground Truth and Predicted Data
+
+Create a plot with the first column of the X data on the x-axis and the target data on the y-axis to visualize the predicted data by the model.
+Translation results
+
+
+
