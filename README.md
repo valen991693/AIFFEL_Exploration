@@ -21,50 +21,57 @@
 ### Face Detection
 
 * We explore the practical applications of computer vision techniques, particularly face detection.
+  
 * It allows us to delve into the exciting field of computer vision.
-
-* * *
 
 #### Benefits of Face Detection
 
-It enables us to experience the thrill of working with computer vision technologies.
-We can apply face detection techniques to various computer vision tasks.
-Semantic Segmentation
+* It enables us to experience the thrill of working with computer vision technologies.
+  
+* We can apply face detection techniques to various computer vision tasks.
 
-We undertake projects on semantic segmentation, including background image synthesis using DeepLab V3 and leveraging OpenCV and Keras.
+* * *
+
+### Semantic Segmentation
+
+* We undertake projects on semantic segmentation, including background image synthesis using DeepLab V3 and leveraging OpenCV and Keras.
 
 * * *
 
 ### Sentiment Analysis of Movie Reviews
 
-We tackle sentiment analysis, a fundamental task in natural language processing (NLP) that involves classifying sentiments in text. We utilize embedding techniques like Word2Vec and recurrent neural networks (RNNs).
+* We tackle sentiment analysis, a fundamental task in natural language processing (NLP) that involves classifying sentiments in text.
+
+* We utilize embedding techniques like Word2Vec and recurrent neural networks (RNNs).
 
 * * *
 
 ### Text Summarization (Seq2Seq)
 
-We employ the Seq2Seq model for document summarization, which involves the concepts of encoder-decoder architectures.
+* We employ the Seq2Seq model for document summarization, which involves the concepts of encoder-decoder architectures.
 
 * * *
 
 ### cGAN (Pix2Pix)
 
-We explore generative adversarial networks (GANs) by applying them to a project like coloring Pokémon images. This project marks our foray into image generation models, where we actively utilize tools like Gradient Tape.
+* We explore generative adversarial networks (GANs) by applying them to a project like coloring Pokémon images.
+
+* This project marks our foray into image generation models, where we actively utilize tools like Gradient Tape.
 
 * * *
 
 ### Transformer
 
-We delve into the Transformer model, one of the hottest deep learning models in the field. We may explore text generation tasks such as building chatbots from scratch using Transformers.
+* We delve into the Transformer model, one of the hottest deep learning models in the field. We may explore text generation tasks such as building chatbots from scratch using Transformers.
 
 * * *
 
 ## Exploration Learning Concept
 
-The exploration phase aims to perform various tasks and toy projects related to deep learning, helping us discover our interests and develop a passion for deep learning.
+* The exploration phase aims to perform various tasks and toy projects related to deep learning, helping us discover our interests and develop a passion for deep learning.
 
-While understanding the models is crucial, grasping the flow of each project becomes even more important. Although the tasks and data may differ from data analysis projects to Transformer projects, the general flow remains consistent.
+* While understanding the models is crucial, grasping the flow of each project becomes even more important. Although the tasks and data may differ from data analysis projects to Transformer projects, the general flow remains consistent.
 
-Once we understand the project flow, we can then delve into studying the models in detail.
+* Once we understand the project flow, we can then delve into studying the models in detail.
 
-The above content represents the description of the repository, which has been refined to showcase a well-organized summary of the author's work.
+* The above content represents the description of the repository, which has been refined to showcase a well-organized summary of the author's work.
