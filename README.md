@@ -1,4 +1,10 @@
-# AIFFEL_Exploration_Description
+# AIFFEL_Exploration
+
+This repository is for AIFFEL Quest
+
+* * *
+
+# Description
 
 ### 1. Data Analysis
 
