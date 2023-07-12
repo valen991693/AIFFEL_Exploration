@@ -26,8 +26,6 @@ This repository is for AIFFEL Quest
   
 * Kaggle serves as a vibrant community where we can learn and grow.
 
-> Camera_Sticker_application
-
 * * *
 
 ### 3. Face Detection
@@ -41,6 +39,8 @@ This repository is for AIFFEL Quest
 * It enables us to experience the thrill of working with computer vision technologies.
   
 * We can apply face detection techniques to various computer vision tasks.
+
+> Camera_Sticker_application
 
 * * *
 
