@@ -26,6 +26,8 @@ This repository is for AIFFEL Quest
   
 * Kaggle serves as a vibrant community where we can learn and grow.
 
+> House price prediction (2019 2nd ML month with KaKR)
+
 * * *
 
 ### 3. Face Detection
